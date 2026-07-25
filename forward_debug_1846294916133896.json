@@ -1,0 +1,91 @@
+{
+  "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+  "original_update": {
+    "message_id": "1846294916133896",
+    "action": "New",
+    "message": {
+      "message_id": "1846294916133896",
+      "text": "@iranimusic_ir",
+      "file_inline": {
+        "file_id": 116429486344602,
+        "mime": "mp3",
+        "dc_id": 492,
+        "access_hash_rec": "3543376136819250303278892935112026072416",
+        "file_name": "Phobia.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 160,
+        "size": 6563840,
+        "type": "Music",
+        "music_performer": "Armin Zarei @RozMusic.com",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784921269",
+      "count_seen": "193",
+      "is_edited": false,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1845853315908760",
+        "object_guid": "c0DfW3K078f141e625d09f61aa1be103"
+      },
+      "type": "FileInlineCaption",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784921269",
+    "prev_message_id": "1846294915984896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784921209",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  },
+  "_original_update": {
+    "message_id": "1846294916133896",
+    "action": "New",
+    "message": {
+      "message_id": "1846294916133896",
+      "text": "@iranimusic_ir",
+      "file_inline": {
+        "file_id": 116429486344602,
+        "mime": "mp3",
+        "dc_id": 492,
+        "access_hash_rec": "3543376136819250303278892935112026072416",
+        "file_name": "Phobia.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 160,
+        "size": 6563840,
+        "type": "Music",
+        "music_performer": "Armin Zarei @RozMusic.com",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784921269",
+      "count_seen": "193",
+      "is_edited": false,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1845853315908760",
+        "object_guid": "c0DfW3K078f141e625d09f61aa1be103"
+      },
+      "type": "FileInlineCaption",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784921269",
+    "prev_message_id": "1846294915984896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784921209",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  }
+}

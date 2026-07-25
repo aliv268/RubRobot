@@ -1,0 +1,139 @@
+{
+  "client": "<rubpy.client.Client object at 0x00000245643C5D30>",
+  "original_update": {
+    "message_id": "1846286911909896",
+    "action": "New",
+    "message": {
+      "message_id": "1846286911909896",
+      "text": "ریمیکس جدید🖤\n\nمیکس رپی اشک منتشر شد🩸\n\nاگه خوشت اومد بفرست برای دوستان🫂❤️‍🩹\n\n@Music_Rubka 💯",
+      "file_inline": {
+        "file_id": 116436476279978,
+        "mime": "mp3",
+        "dc_id": 495,
+        "access_hash_rec": "4345620431511193177058379074892026072418",
+        "file_name": "Ashk.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 317,
+        "size": 5221575,
+        "type": "Music",
+        "music_performer": "@Music_Rubka 💎",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784920956",
+      "count_seen": "18197",
+      "is_edited": true,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1845980408585517",
+        "object_guid": "c0E1jt07f8e8c8addf4cadf2ec1c16aa"
+      },
+      "type": "FileInlineCaption",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "metadata": {
+        "meta_data_parts": [
+          {
+            "from_index": 0,
+            "length": 15,
+            "type": "Bold"
+          },
+          {
+            "from_index": 15,
+            "length": 25,
+            "type": "Bold"
+          },
+          {
+            "from_index": 40,
+            "length": 31,
+            "type": "Bold"
+          },
+          {
+            "from_index": 80,
+            "length": 15,
+            "type": "Quote"
+          }
+        ]
+      },
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784920956",
+    "prev_message_id": "1846231882560896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784920896",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000245643C5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  },
+  "_original_update": {
+    "message_id": "1846286911909896",
+    "action": "New",
+    "message": {
+      "message_id": "1846286911909896",
+      "text": "ریمیکس جدید🖤\n\nمیکس رپی اشک منتشر شد🩸\n\nاگه خوشت اومد بفرست برای دوستان🫂❤️‍🩹\n\n@Music_Rubka 💯",
+      "file_inline": {
+        "file_id": 116436476279978,
+        "mime": "mp3",
+        "dc_id": 495,
+        "access_hash_rec": "4345620431511193177058379074892026072418",
+        "file_name": "Ashk.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 317,
+        "size": 5221575,
+        "type": "Music",
+        "music_performer": "@Music_Rubka 💎",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784920956",
+      "count_seen": "18197",
+      "is_edited": true,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1845980408585517",
+        "object_guid": "c0E1jt07f8e8c8addf4cadf2ec1c16aa"
+      },
+      "type": "FileInlineCaption",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "metadata": {
+        "meta_data_parts": [
+          {
+            "from_index": 0,
+            "length": 15,
+            "type": "Bold"
+          },
+          {
+            "from_index": 15,
+            "length": 25,
+            "type": "Bold"
+          },
+          {
+            "from_index": 40,
+            "length": 31,
+            "type": "Bold"
+          },
+          {
+            "from_index": 80,
+            "length": 15,
+            "type": "Quote"
+          }
+        ]
+      },
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784920956",
+    "prev_message_id": "1846231882560896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784920896",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000245643C5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  }
+}

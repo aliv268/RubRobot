@@ -1,0 +1,89 @@
+{
+  "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+  "original_update": {
+    "message_id": "1846288914141896",
+    "action": "New",
+    "message": {
+      "message_id": "1846288914141896",
+      "file_inline": {
+        "file_id": 116446490184685,
+        "mime": "mp3",
+        "dc_id": 494,
+        "access_hash_rec": "5583350898449350843201798029992026072420",
+        "file_name": "BI TO 🎧.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 171,
+        "size": 7912353,
+        "type": "Music",
+        "music_performer": "Rubika | @ahangg_ir",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784921117",
+      "count_seen": "5120",
+      "is_edited": false,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1846098650959744",
+        "object_guid": "c0DzwV04c34b71d6460b685046c135b5"
+      },
+      "type": "FileInline",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784921117",
+    "prev_message_id": "1846288913972896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784921057",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  },
+  "_original_update": {
+    "message_id": "1846288914141896",
+    "action": "New",
+    "message": {
+      "message_id": "1846288914141896",
+      "file_inline": {
+        "file_id": 116446490184685,
+        "mime": "mp3",
+        "dc_id": 494,
+        "access_hash_rec": "5583350898449350843201798029992026072420",
+        "file_name": "BI TO 🎧.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 171,
+        "size": 7912353,
+        "type": "Music",
+        "music_performer": "Rubika | @ahangg_ir",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784921117",
+      "count_seen": "5120",
+      "is_edited": false,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1846098650959744",
+        "object_guid": "c0DzwV04c34b71d6460b685046c135b5"
+      },
+      "type": "FileInline",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784921117",
+    "prev_message_id": "1846288913972896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784921057",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  }
+}

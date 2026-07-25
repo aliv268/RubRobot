@@ -1,0 +1,91 @@
+{
+  "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+  "original_update": {
+    "message_id": "1846288914703896",
+    "action": "New",
+    "message": {
+      "message_id": "1846288914703896",
+      "text": "🎶 @powermusic_ir",
+      "file_inline": {
+        "file_id": 116446496845834,
+        "mime": "mp3",
+        "dc_id": 467,
+        "access_hash_rec": "3996327852389438832239789971002026072420",
+        "file_name": "Ghazi_Ali Azizpour.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 194,
+        "size": 7875667,
+        "type": "Music",
+        "music_performer": "Rubika : @powermusic_ir",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784921157",
+      "count_seen": "2942",
+      "is_edited": false,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1846082112228246",
+        "object_guid": "c0B3Kf208cce9d54177d065061470cd5"
+      },
+      "type": "FileInlineCaption",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784921157",
+    "prev_message_id": "1846288914562896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784921097",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  },
+  "_original_update": {
+    "message_id": "1846288914703896",
+    "action": "New",
+    "message": {
+      "message_id": "1846288914703896",
+      "text": "🎶 @powermusic_ir",
+      "file_inline": {
+        "file_id": 116446496845834,
+        "mime": "mp3",
+        "dc_id": 467,
+        "access_hash_rec": "3996327852389438832239789971002026072420",
+        "file_name": "Ghazi_Ali Azizpour.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 194,
+        "size": 7875667,
+        "type": "Music",
+        "music_performer": "Rubika : @powermusic_ir",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784921157",
+      "count_seen": "2942",
+      "is_edited": false,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1846082112228246",
+        "object_guid": "c0B3Kf208cce9d54177d065061470cd5"
+      },
+      "type": "FileInlineCaption",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784921157",
+    "prev_message_id": "1846288914562896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784921097",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  }
+}

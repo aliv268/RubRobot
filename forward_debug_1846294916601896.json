@@ -1,0 +1,119 @@
+{
+  "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+  "original_update": {
+    "message_id": "1846294916601896",
+    "action": "New",
+    "message": {
+      "message_id": "1846294916601896",
+      "text": "🎧 #آهنگ کلیپ بالایی\n\n↬ @Ahng_Clip_Rubika ᥫღ",
+      "file_inline": {
+        "file_id": 116388427317851,
+        "mime": "mp3",
+        "dc_id": 467,
+        "access_hash_rec": "8605999047527023848458268872462026072318",
+        "file_name": "Dorooghe ~ Musics-Fa.Com.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 190,
+        "size": 7611250,
+        "type": "Music",
+        "music_performer": "@Ahng_Clip_Rubika °♡°",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784921305",
+      "count_seen": "5743",
+      "is_edited": true,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1844798761745625",
+        "object_guid": "c0Bw18D0bec35206fe432c3ad9c2955e"
+      },
+      "type": "FileInlineCaption",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "metadata": {
+        "meta_data_parts": [
+          {
+            "from_index": 3,
+            "length": 17,
+            "type": "Bold"
+          },
+          {
+            "from_index": 22,
+            "length": 22,
+            "type": "Quote"
+          }
+        ]
+      },
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784921305",
+    "prev_message_id": "1846294916437896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784921245",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  },
+  "_original_update": {
+    "message_id": "1846294916601896",
+    "action": "New",
+    "message": {
+      "message_id": "1846294916601896",
+      "text": "🎧 #آهنگ کلیپ بالایی\n\n↬ @Ahng_Clip_Rubika ᥫღ",
+      "file_inline": {
+        "file_id": 116388427317851,
+        "mime": "mp3",
+        "dc_id": 467,
+        "access_hash_rec": "8605999047527023848458268872462026072318",
+        "file_name": "Dorooghe ~ Musics-Fa.Com.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 190,
+        "size": 7611250,
+        "type": "Music",
+        "music_performer": "@Ahng_Clip_Rubika °♡°",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784921305",
+      "count_seen": "5743",
+      "is_edited": true,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1844798761745625",
+        "object_guid": "c0Bw18D0bec35206fe432c3ad9c2955e"
+      },
+      "type": "FileInlineCaption",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "metadata": {
+        "meta_data_parts": [
+          {
+            "from_index": 3,
+            "length": 17,
+            "type": "Bold"
+          },
+          {
+            "from_index": 22,
+            "length": 22,
+            "type": "Quote"
+          }
+        ]
+      },
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784921305",
+    "prev_message_id": "1846294916437896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784921245",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  }
+}

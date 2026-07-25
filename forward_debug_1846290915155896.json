@@ -1,0 +1,109 @@
+{
+  "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+  "original_update": {
+    "message_id": "1846290915155896",
+    "action": "New",
+    "message": {
+      "message_id": "1846290915155896",
+      "text": "اگه با همه حرف میزنی، با من حرف نزن؛ اگه قربون صدقه همه میری، قربون صدقه من نرو؛ اگه برا همه اهنگ میفرستی، برا من نفرست؛ اگه یچیزیو به همه میگی، به من نگو؛ اگه همه رو دوست داری، منو نداشته باش، من از شبیه همه بودن متنفرم، با من شبیه همه رفتار نکن.\n\n.| @soonami_plus |.",
+      "file_inline": {
+        "file_id": 116430463209600,
+        "mime": "mp3",
+        "dc_id": 483,
+        "access_hash_rec": "9441384529259073134429179190982026072416",
+        "file_name": "Nemikhamet.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 249,
+        "size": 4000335,
+        "type": "Music",
+        "music_performer": "Ai MAde [Soonami.ir]",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784921191",
+      "count_seen": "29280",
+      "is_edited": true,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1845873062727457",
+        "object_guid": "c0BbQ4z0fc8024adaf3413078887599a"
+      },
+      "type": "FileInlineCaption",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "metadata": {
+        "meta_data_parts": [
+          {
+            "from_index": 0,
+            "length": 247,
+            "type": "Quote"
+          }
+        ]
+      },
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784921192",
+    "prev_message_id": "1846289915006896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784921132",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  },
+  "_original_update": {
+    "message_id": "1846290915155896",
+    "action": "New",
+    "message": {
+      "message_id": "1846290915155896",
+      "text": "اگه با همه حرف میزنی، با من حرف نزن؛ اگه قربون صدقه همه میری، قربون صدقه من نرو؛ اگه برا همه اهنگ میفرستی، برا من نفرست؛ اگه یچیزیو به همه میگی، به من نگو؛ اگه همه رو دوست داری، منو نداشته باش، من از شبیه همه بودن متنفرم، با من شبیه همه رفتار نکن.\n\n.| @soonami_plus |.",
+      "file_inline": {
+        "file_id": 116430463209600,
+        "mime": "mp3",
+        "dc_id": 483,
+        "access_hash_rec": "9441384529259073134429179190982026072416",
+        "file_name": "Nemikhamet.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 249,
+        "size": 4000335,
+        "type": "Music",
+        "music_performer": "Ai MAde [Soonami.ir]",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784921191",
+      "count_seen": "29280",
+      "is_edited": true,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1845873062727457",
+        "object_guid": "c0BbQ4z0fc8024adaf3413078887599a"
+      },
+      "type": "FileInlineCaption",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "metadata": {
+        "meta_data_parts": [
+          {
+            "from_index": 0,
+            "length": 247,
+            "type": "Quote"
+          }
+        ]
+      },
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784921192",
+    "prev_message_id": "1846289915006896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784921132",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  }
+}

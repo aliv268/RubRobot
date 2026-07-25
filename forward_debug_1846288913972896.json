@@ -1,0 +1,89 @@
+{
+  "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+  "original_update": {
+    "message_id": "1846288913972896",
+    "action": "New",
+    "message": {
+      "message_id": "1846288913972896",
+      "file_inline": {
+        "file_id": 116446497977049,
+        "mime": "mp3",
+        "dc_id": 440,
+        "access_hash_rec": "5125964722928423507480603523452026072420",
+        "file_name": "Dark Light.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 227,
+        "size": 9199163,
+        "type": "Music",
+        "music_performer": "𝗖𝗟𝗟𝗣_𝗗𝗜𝗗𝗔𝗡𝗜𝟱",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784921105",
+      "count_seen": "655",
+      "is_edited": false,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1846108288053159",
+        "object_guid": "c0r5Ee031af8eba467ccfadd0fc15f05"
+      },
+      "type": "FileInline",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784921105",
+    "prev_message_id": "1846288913859896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784921045",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  },
+  "_original_update": {
+    "message_id": "1846288913972896",
+    "action": "New",
+    "message": {
+      "message_id": "1846288913972896",
+      "file_inline": {
+        "file_id": 116446497977049,
+        "mime": "mp3",
+        "dc_id": 440,
+        "access_hash_rec": "5125964722928423507480603523452026072420",
+        "file_name": "Dark Light.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 227,
+        "size": 9199163,
+        "type": "Music",
+        "music_performer": "𝗖𝗟𝗟𝗣_𝗗𝗜𝗗𝗔𝗡𝗜𝟱",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784921105",
+      "count_seen": "655",
+      "is_edited": false,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1846108288053159",
+        "object_guid": "c0r5Ee031af8eba467ccfadd0fc15f05"
+      },
+      "type": "FileInline",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784921105",
+    "prev_message_id": "1846288913859896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784921045",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x00000233C83A5D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  }
+}

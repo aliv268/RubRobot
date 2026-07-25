@@ -1,0 +1,139 @@
+{
+  "client": "<rubpy.client.Client object at 0x000002AEBD7C1D30>",
+  "original_update": {
+    "message_id": "1846231882560896",
+    "action": "New",
+    "message": {
+      "message_id": "1846231882560896",
+      "text": "کـانال آهنـگ نــاب🎶❤️‍🔥\n\njoin ☟︎︎\n⁦➜ @Music_Rubka",
+      "file_inline": {
+        "file_id": 116435474439328,
+        "mime": "mp3",
+        "dc_id": 456,
+        "access_hash_rec": "1788557700244102141871462628272026072417",
+        "file_name": "Na Khoda.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 235,
+        "size": 9566064,
+        "type": "Music",
+        "music_performer": "@Music_Rubka 💎",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784918623",
+      "count_seen": "16310",
+      "is_edited": false,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1845981410210517",
+        "object_guid": "c0E1jt07f8e8c8addf4cadf2ec1c16aa"
+      },
+      "type": "FileInlineCaption",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "metadata": {
+        "meta_data_parts": [
+          {
+            "from_index": 0,
+            "length": 18,
+            "type": "Bold"
+          },
+          {
+            "from_index": 27,
+            "length": 4,
+            "type": "Bold"
+          },
+          {
+            "from_index": 27,
+            "length": 4,
+            "type": "Italic"
+          },
+          {
+            "from_index": 36,
+            "length": 15,
+            "type": "Quote"
+          }
+        ]
+      },
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784918623",
+    "prev_message_id": "1846231882430896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784918563",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x000002AEBD7C1D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  },
+  "_original_update": {
+    "message_id": "1846231882560896",
+    "action": "New",
+    "message": {
+      "message_id": "1846231882560896",
+      "text": "کـانال آهنـگ نــاب🎶❤️‍🔥\n\njoin ☟︎︎\n⁦➜ @Music_Rubka",
+      "file_inline": {
+        "file_id": 116435474439328,
+        "mime": "mp3",
+        "dc_id": 456,
+        "access_hash_rec": "1788557700244102141871462628272026072417",
+        "file_name": "Na Khoda.mp3",
+        "width": 0,
+        "height": 0,
+        "time": 235,
+        "size": 9566064,
+        "type": "Music",
+        "music_performer": "@Music_Rubka 💎",
+        "is_round": false,
+        "is_spoil": false
+      },
+      "time": "1784918623",
+      "count_seen": "16310",
+      "is_edited": false,
+      "forwarded_from": {
+        "type_from": "Channel",
+        "message_id": "1845981410210517",
+        "object_guid": "c0E1jt07f8e8c8addf4cadf2ec1c16aa"
+      },
+      "type": "FileInlineCaption",
+      "author_type": "User",
+      "author_object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+      "metadata": {
+        "meta_data_parts": [
+          {
+            "from_index": 0,
+            "length": 18,
+            "type": "Bold"
+          },
+          {
+            "from_index": 27,
+            "length": 4,
+            "type": "Bold"
+          },
+          {
+            "from_index": 27,
+            "length": 4,
+            "type": "Italic"
+          },
+          {
+            "from_index": 36,
+            "length": 15,
+            "type": "Quote"
+          }
+        ]
+      },
+      "allow_transcription": false
+    },
+    "updated_parameters": [],
+    "timestamp": "1784918623",
+    "prev_message_id": "1846231882430896",
+    "object_guid": "u0IxK830a65d98e74b07859eed8246ce",
+    "type": "User",
+    "state": "1784918563",
+    "is_scheduled": false,
+    "client": "<rubpy.client.Client object at 0x000002AEBD7C1D30>",
+    "user_guid": "u0IxK830a65d98e74b07859eed8246ce"
+  }
+}
